@@ -4,7 +4,9 @@ A Task Management system built for HMCTS caseworkers to create, view, update, an
 
 # Tech Stack
 Backend	: ASP.NET Core (C#) 
+
 Frontend : React JS 
+
 Database : MS SQL Server
 
 # Features
