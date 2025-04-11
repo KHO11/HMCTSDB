@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HMCTS.TaskManagement.API.props" />
+</Project>

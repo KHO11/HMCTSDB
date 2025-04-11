@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kevin.Hyde-Opoku\\Documents\\HMCTS.TaskManagement.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E7A469-7A05-45D8-A472-95B46140EE6E}|HMCTS.TaskManagement.API\\HMCTS.TaskManagement.API.csproj|c:\\users\\kevin.hyde-opoku\\documents\\hmcts.taskmanagement.api\\hmcts.taskmanagement.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E7A469-7A05-45D8-A472-95B46140EE6E}|HMCTS.TaskManagement.API\\HMCTS.TaskManagement.API.csproj|solutionrelative:hmcts.taskmanagement.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E7A469-7A05-45D8-A472-95B46140EE6E}|HMCTS.TaskManagement.API\\HMCTS.TaskManagement.API.csproj|c:\\users\\kevin.hyde-opoku\\documents\\hmcts.taskmanagement.api\\hmcts.taskmanagement.api\\dtos\\updatetaskstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E7A469-7A05-45D8-A472-95B46140EE6E}|HMCTS.TaskManagement.API\\HMCTS.TaskManagement.API.csproj|solutionrelative:hmcts.taskmanagement.api\\dtos\\updatetaskstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E7A469-7A05-45D8-A472-95B46140EE6E}|HMCTS.TaskManagement.API\\HMCTS.TaskManagement.API.csproj|c:\\users\\kevin.hyde-opoku\\documents\\hmcts.taskmanagement.api\\hmcts.taskmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7E7A469-7A05-45D8-A472-95B46140EE6E}|HMCTS.TaskManagement.API\\HMCTS.TaskManagement.API.csproj|solutionrelative:hmcts.taskmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E7A469-7A05-45D8-A472-95B46140EE6E}|HMCTS.TaskManagement.API\\HMCTS.TaskManagement.API.csproj|c:\\users\\kevin.hyde-opoku\\documents\\hmcts.taskmanagement.api\\hmcts.taskmanagement.api\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E7A469-7A05-45D8-A472-95B46140EE6E}|HMCTS.TaskManagement.API\\HMCTS.TaskManagement.API.csproj|solutionrelative:hmcts.taskmanagement.api\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E7A469-7A05-45D8-A472-95B46140EE6E}|HMCTS.TaskManagement.API\\HMCTS.TaskManagement.API.csproj|c:\\users\\kevin.hyde-opoku\\documents\\hmcts.taskmanagement.api\\hmcts.taskmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E7A469-7A05-45D8-A472-95B46140EE6E}|HMCTS.TaskManagement.API\\HMCTS.TaskManagement.API.csproj|solutionrelative:hmcts.taskmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kevin.Hyde-Opoku\\Documents\\HMCTS.TaskManagement.API\\HMCTS.TaskManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "HMCTS.TaskManagement.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kevin.Hyde-Opoku\\Documents\\HMCTS.TaskManagement.API\\HMCTS.TaskManagement.API\\appsettings.json",
+              "RelativeToolTip": "HMCTS.TaskManagement.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T12:16:05.066Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateTaskStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin.Hyde-Opoku\\Documents\\HMCTS.TaskManagement.API\\HMCTS.TaskManagement.API\\Dtos\\UpdateTaskStatusDto.cs",
+              "RelativeDocumentMoniker": "HMCTS.TaskManagement.API\\Dtos\\UpdateTaskStatusDto.cs",
+              "ToolTip": "C:\\Users\\Kevin.Hyde-Opoku\\Documents\\HMCTS.TaskManagement.API\\HMCTS.TaskManagement.API\\Dtos\\UpdateTaskStatusDto.cs",
+              "RelativeToolTip": "HMCTS.TaskManagement.API\\Dtos\\UpdateTaskStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T14:17:03.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin.Hyde-Opoku\\Documents\\HMCTS.TaskManagement.API\\HMCTS.TaskManagement.API\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "HMCTS.TaskManagement.API\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Kevin.Hyde-Opoku\\Documents\\HMCTS.TaskManagement.API\\HMCTS.TaskManagement.API\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "HMCTS.TaskManagement.API\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAawCkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:52:18.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin.Hyde-Opoku\\Documents\\HMCTS.TaskManagement.API\\HMCTS.TaskManagement.API\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "HMCTS.TaskManagement.API\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\Kevin.Hyde-Opoku\\Documents\\HMCTS.TaskManagement.API\\HMCTS.TaskManagement.API\\Models\\TaskItem.cs",
+              "RelativeToolTip": "HMCTS.TaskManagement.API\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:12:47.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin.Hyde-Opoku\\Documents\\HMCTS.TaskManagement.API\\HMCTS.TaskManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "HMCTS.TaskManagement.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Kevin.Hyde-Opoku\\Documents\\HMCTS.TaskManagement.API\\HMCTS.TaskManagement.API\\Program.cs",
+              "RelativeToolTip": "HMCTS.TaskManagement.API\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:07:19.342Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

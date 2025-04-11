@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qds/WBtl9bODubyjS52ntWY4oEPoPOyO6tzBUr/Ln4w=",
+  "Source": "HMCTS.TaskManagement.API",
+  "BasePath": "_content/HMCTS.TaskManagement.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
