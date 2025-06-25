@@ -1,6 +1,7 @@
 # HMCTS Task Management System
 
 A Task Management system built for HMCTS caseworkers to create, view, update, and delete tasks.
+It is a full stack application.
 
 # Tech Stack
 Backend	: ASP.NET Core (C#) 
