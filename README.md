@@ -38,6 +38,15 @@ PUT	/api/tasks/{id}/status	Update task status
 
 DELETE	/api/tasks/{id}	Delete task
 
+# What I learnt
+
+- Setting up a React frontend with routing and reusable components
+- Creating and consuming RESTful APIs using ASP.NET Core
+- Using Entity Framework Core for database interactions
+- Handling CORS and connecting frontend to backend
+- Managing app state and asynchronous API calls
+- Structuring full-stack projects and debugging effectively
+
 # Future Improvements (Optional)
 
 Search & Filter tasks
